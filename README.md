@@ -1,2 +1,2 @@
-# mvc-vannila-js
+# mvc-vanilla-js
 Framework MVC Vannila Javascript
