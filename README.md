@@ -7,7 +7,7 @@
 
 O termo <em>Vanilla</em>, quando utilizado no contexto de desenvolvimento de software, se refere a uma tecnologia usada em seu estado puro, sem qualquer customização. Assim, a princípo, talvez possa parecer uma contradição se estar oferecendo um framework que carregue este termo. Ora, frameworks podem ser considerados, pois, a forma mais comum de customização de linguagens de desenvolvimento.
 
-Na verdade, o que se pretende oferecer é não somente uma caixa preta, o que normalmente é oferecido pelos frameworks convencionais, mas um conjunto consistente de boas práticas de codificação, principalmente no que se refere a organização dos arquivos e códigos que compõem um sistema, de modo que o desenvolvedor que optar por utilizá-lo tenha pelo conhecimento de "como as coisas funcionam".
+Na verdade, o que se pretende oferecer é não somente uma caixa preta, o que normalmente é oferecido pelos frameworks convencionais, mas um conjunto consistente de boas práticas de codificação, principalmente no que se refere a organização dos arquivos e códigos que compõem um sistema, de modo que o desenvolvedor que optar por utilizá-lo tenha pleno conhecimento de "como as coisas funcionam".
 
 O empodera, desta forma, não apenas para realizar as modificações que julgar necessárias, mas replicar tais técnicas, guardadas as devidas adaptações, utilizando de outras linguagens que não o javascript. Em outras palavras, com o <b>MVC VANILLA JS</b> se tem grande preocupação não apenas em entregar as funcionalidades pertinentes a um framework MVC - os resultados -, mas de deixar muito bem claro como tais resultados foram alcançados, e, mais que isso, fazê-lo da maneira mais elegante possível.
 
