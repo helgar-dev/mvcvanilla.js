@@ -1,6 +1,6 @@
 <img src="mvc-vanilla-js-large.png" alt="MVC VANNILA MVC." style="text-align:center;"/>
 
-<b>MVC VANILLA JS</b> é um framework simples para o desenvolvimento de websites do tipo Single Page Application (SPA). É utilizado, para tanto, o padrão Model View Controller (MVC). Como o próprio nome revela, em seu desenvolvimento é utilizado Vanilla Javascript, isto é, Javascript puro, sem o auxílio de quaisquer frameworks externos. Se utiliza, além disto, uma série de tecnologias por padrão já embutidas nos navegadores modernos, como, por exemplo, HTML, CSS, API DOM, AJAX, etc.
+<b>MVC VANILLA JS</b> é um framework simples para o desenvolvimento de websites do tipo Single Page Application (SPA). É utilizado, para tanto, o padrão Model View Controller (MVC). Como o próprio nome revela, em seu desenvolvimento se utiliza de Vanilla Javascript, isto é, Javascript puro, sem o auxílio de quaisquer frameworks externos. Se utiliza, além disto, uma série de tecnologias por padrão já embutidas nos navegadores modernos, como, por exemplo, HTML, CSS, API DOM, AJAX, etc.
 
 
 ## Fisolofia
