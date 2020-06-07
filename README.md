@@ -13,7 +13,7 @@ Na verdade,
 ## Aviso
 Importante esclarecer que, a princípio, trata-se de um teste. Fora criado originalmente para o desenvolvimento de um website do tipo portfolio, para armazenar e apresentar os projetos relacionados a desenvolvimento de sistemas codificados por este autor. O framework pode ser utilizado, no entanto, no desenvolvimento de qualquer tipo sistema web, visto que, embora criado para o desenvolvimento de um projeto específico, os esforços foram direcionados no sentido de se criar uma estrutura de propósito geral.
 
-Importante esclarecer, ainda,  que os conhecimentos sobre Javascript deste autor, bem como o de desenvolvimento de sistemas em geral, ao menos na data em que este projeto foi iniciado, podem ser considerados entre básicos e intermediários. Isto quer dizer que não necessariamente as soluções aqui apresentadas podem ser consideradas as mais adequadas. Fato este, aliás, foi prepoderante na decisão de aqui publicá-lo, pois, desta forma, há possibilidade de que seja aprimorado pela comunidade. 
+Importante esclarecer, ainda,  que os conhecimentos sobre Javascript deste autor, bem como o de desenvolvimento de sistemas em geral, ao menos na data em que este projeto foi iniciado, podem ser considerados entre básicos e intermediários. Isto quer dizer que não necessariamente as soluções aqui apresentadas podem ser consideradas as mais adequadas. Fato este, aliás, foi prepoderante na decisão de aqui publicá-lo, pois, desta forma, há possibilidade de que seja aprimorado com auxílio da comunidade. 
 
 ## Em construção
 
