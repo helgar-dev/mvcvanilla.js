@@ -4,7 +4,7 @@ MVC VANILLA JS é um framework simples para o desenvolvimento de websites do tip
 
 ## Fisolofia
 [Em construção] (
-O termo <em>Vanilla</em>, quando utilizado no contexto de desenvolvimento de software, se refere a uma tecnologia usada em seu estado puro, sem qualquer customização. Assim, a princípo, talvez possa parecer uma contradição se estar oferecendo um framework que carregue em seu nome este termo. Ora, frameworks podem ser considerados, pois, a forma mais comum de customização de linguagens de programação.
+O termo <em>Vanilla</em>, quando utilizado no contexto de desenvolvimento de software, se refere a uma tecnologia usada em seu estado puro, sem qualquer customização. Assim, a princípo, talvez possa parecer uma contradição se estar oferecendo um framework que carregue em seu nome este termo. Ora, frameworks podem ser considerados, pois, a forma mais comum de customização de linguagens de desenvolvimento.
 
 Na verdade, 
 )
