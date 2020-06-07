@@ -14,7 +14,7 @@ O empodera, desta forma, não apenas para realizar as modificações que julgar 
 ## Aviso
 Importante esclarecer que, a princípio, trata-se de um teste. Fora criado originalmente para o desenvolvimento de um website do tipo portfolio, para armazenar e apresentar os projetos relacionados a desenvolvimento de sistemas codificados por este autor. Pode ser utilizado, no entanto, no desenvolvimento de qualquer tipo de sistema web, visto que, embora criado para o desenvolvimento de um projeto específico, os esforços foram direcionados no sentido de se criar uma estrutura de propósito geral.
 
-Importante esclarecer, ainda,  que os conhecimentos sobre Javascript deste autor, bem como o de desenvolvimento de sistemas em geral, ao menos na data em que este projeto foi iniciado, podem ser considerados entre básicos e intermediários. Isto quer dizer que, neste momento, não necessariamente as soluções aqui apresentadas podem ser consideradas as mais adequadas. No entanto, a patir de esforços deste autor, e possívelmente com auxílio da comunidade, se pretende aprimorá-lo tanto quanto possível, de modo a viabilizar seu uso, com segurança, as mais variadas aplicações.
+Importante esclarecer, ainda,  que os conhecimentos sobre Javascript deste autor, bem como o de desenvolvimento de sistemas em geral, ao menos na data em que este projeto foi iniciado, podem ser considerados entre básicos e intermediários. Isto quer dizer que, neste momento, não necessariamente as soluções aqui apresentadas podem ser consideradas as mais adequadas. No entanto, a partir de esforços deste autor, e possívelmente com auxílio da comunidade, se pretende aprimorá-lo tanto quanto possível, de modo a viabilizar seu uso, com segurança, as mais variadas aplicações.
 
 ## Em construção
 
