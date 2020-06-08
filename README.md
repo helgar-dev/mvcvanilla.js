@@ -20,3 +20,20 @@ Importante esclarecer, ainda,  que os conhecimentos sobre Javascript deste autor
 
 Este repositório está em processo inicial de construção e, por hora, se encontra vazio. Tão logo haja algum desenvolvimento, no entanto, será imediatamente atualizado.
 
+##
+```
+////////////////////////////////////////////////////////////////
+//                                                            //
+//                                                            //
+//        Developed by:                                       //
+//         _    _ ______ _      _____          _____          //
+//        | |  | |  ____| |    / ____|   /\   |  __ \         //
+//        | |__| | |__  | |   | |  __   /  \  | |__) |        //
+//        |  __  |  __| | |   | | |_ | / /\ \ |  _  /         //
+//        | |  | | |____| |___| |__| |/ ____ \| | \ \         //
+//        |_|  |_|______|______\_____/_/    \_\_|  \_\        //
+//                                helgar-dev.github.io        //
+//                                                            //
+//                                                            //
+////////////////////////////////////////////////////////////////
+```
